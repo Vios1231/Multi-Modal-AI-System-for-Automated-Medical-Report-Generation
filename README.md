@@ -82,7 +82,8 @@ Gradio will launch a local web
 
 
 ## 📊 Screenshots of Demo
-
+<img width="1883" height="1036" alt="Screenshot 2025-11-04 174132" src="https://github.com/user-attachments/assets/4a2b8c69-c009-4dd3-8269-a1b80314cb8c" />
+<img width="1881" height="1043" alt="Screenshot 2025-11-04 174202" src="https://github.com/user-attachments/assets/8be48172-631f-44a3-ab67-4140d1b049d4" />
 ---
 
 ## ⚠️ Disclaimer
