@@ -96,8 +96,8 @@ It is **not a certified medical diagnostic tool** and should not be used for cli
 ## 🧑‍💻 Author
 
 **Jonathan Alvios**
-Data Scientist | AI Researcher | Medical AI Enthusiast
-📍 Bandung, Indonesia
+Data Scientist | AI Researcher | AI Engineer | ML Enthusiast
+📍 Jakarta, Indonesia
 🔗 [LinkedIn](https://linkedin.com) — *(optional add your link)*
 🔗 [GitHub](https://github.com/yourusername)
 
